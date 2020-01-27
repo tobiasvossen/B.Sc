@@ -33,11 +33,13 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 ...
 
 ## Implementation
-Version `1.0` from 31.01.2020
+| Version | Date     |
+| :-------|---------:|
+| 1.0.0   | 31.01.20 | 
     
-## Requirements
+## Software
 | Software          | Version  |
-| ------------------|---------:|
+| :-----------------|---------:|
 | CoLab             | 1.0.0    | 
 | Keras             | 2.2.4    | 
 | Python            | 3.6.9    |
