@@ -4,9 +4,12 @@
     - [colorisation.ipynb](jupyter/colorisation.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - data/
     - Dataset examples
-  - models/
+  - model/
     - Model summaries
+    - [discriminator.h5](models/discriminator.h5) as discriminative model export
     - [generator.h5](models/generator.h5) as generative model export
+  - deployment/
+    - Colorised examples
 
 ## Title
 Automatic colorisation of grey-value images based on machine learning and deep generative neural networks.
