@@ -4,7 +4,7 @@
 
 :computer: [Jupyter Notebook](colorisation.ipynb)
 
-:calendar: 31.01.2020, Version `1.0` 
+:information_source: Version `1.0` from 31.01.2020
 
 ## Title
 Automatic colorisation of grey-value images based on machine learning and deep generative neural networks.
