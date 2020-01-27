@@ -6,8 +6,8 @@
     - Dataset examples
   - model/
     - Model summaries
-    - [discriminator.h5](models/discriminator.h5) as discriminative model export
-    - [generator.h5](models/generator.h5) as generative model export
+    - [discriminator.h5](model/discriminator.h5) as discriminative model export
+    - [generator.h5](model/generator.h5) as generative model export
   - deployment/
     - Colorised examples
 
