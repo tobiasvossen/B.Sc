@@ -1,6 +1,4 @@
 # Bachelor thesis
-    Version 1.0 from 31.01.2020
-
 - [B.Sc](https://github.com/tobiasvossen/B.Sc)
   - jupyter/ 
     - [colorisation.ipynb](jupyter/colorisation.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
@@ -20,11 +18,9 @@ Automatic colorisation of grey-value images based on machine learning and deep g
 Based on [Pix2Pix](https://github.com/phillipi/pix2pix) by Isola et al. from [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 
 ## Data
-
 Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. from [Places: A 10 million Image Database for Scene Recognition](https://www.researchgate.net/publication/318200394_Places_A_10_Million_Image_Database_for_Scene_Recognition)
 
 ## Model
-
 - [Generative Adversarial Network](https://arxiv.org/abs/1406.2661)
   - Architecture
     - [U-Net](https://arxiv.org/abs/1505.04597) as Generator
@@ -34,10 +30,12 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
     - L1 deviation
 
 ## Deployment
-
-Generative model exported as `generator.h5` in HDF5 under `models/`
+...
 
 ## Implementation
+Version `1.0` from 31.01.2020
+    
+## Requirements
 | Software          | Version  |
 | ------------------|---------:|
 | CoLab             | 1.0.0    | 
