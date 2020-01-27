@@ -2,7 +2,14 @@
 
 :package: [github.com/tobiasvossen/B.Sc](https://github.com/tobiasvossen/B.Sc)
 
-:computer: [Jupyter Notebook](colorisation.ipynb)
+- [B.Sc](https://github.com/tobiasvossen/B.Sc)
+  - jupyter/ 
+    - [colorisation.ipynb](jupyter/colorisation.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
+  - data/
+    - Dataset examples
+  - models/
+    - Model summaries
+    - [generator.h5](models/generator.h5) as generative model export
 
 :information_source: Version `1.0` from 31.01.2020
 
