@@ -1,6 +1,5 @@
 # Bachelor thesis
-
-:package: [github.com/tobiasvossen/B.Sc](https://github.com/tobiasvossen/B.Sc)
+    Version 1.0 from 31.01.2020
 
 - [B.Sc](https://github.com/tobiasvossen/B.Sc)
   - jupyter/ 
@@ -10,8 +9,6 @@
   - models/
     - Model summaries
     - [generator.h5](models/generator.h5) as generative model export
-
-:information_source: Version `1.0` from 31.01.2020
 
 ## Title
 Automatic colorisation of grey-value images based on machine learning and deep generative neural networks.
