@@ -41,3 +41,4 @@ Generative model exported as `generator.h5` in HDF5 under `models/`
 | Python            | 3.6.9    |
 | TensorBoard       | 2.1.0    |
 | TensorFlow        | 2.1.0    |
+| TensorFlow Addons | 0.6.0    |
