@@ -32,8 +32,8 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 ## Deployment
 ...
 
-## Implementation
-| Version | Date     |
+## Release
+| Release | Date     |
 | :-------|---------:|
 | 1.0.0   | 31.01.20 | 
     
