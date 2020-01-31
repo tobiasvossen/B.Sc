@@ -49,3 +49,8 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | TensorBoard       | 2.1.0    |
 | TensorFlow        | 2.1.0    |
 | TensorFlow Addons | 0.6.0    |
+
+## Acknowledgement
+Implementation relies heavily on [TensorFlow](https://github.com/tensorflow/tensorflow)
+
+Code borrows heavily from [TensorFlow Core Tutorial](https://www.tensorflow.org/tutorials/generative/pix2pix)
