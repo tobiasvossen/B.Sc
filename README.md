@@ -51,8 +51,8 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | TensorFlow Addons | 0.6.0    |
 
 ## Acknowledgement
-Implementation relies on [TensorFlow](https://github.com/tensorflow/tensorflow)
+Implementation relies heavily on [TensorFlow](https://github.com/tensorflow/tensorflow) and [Keras](https://github.com/keras-team/keras)
 
 Training process borrows from [TensorFlow Tutorial](https://www.tensorflow.org/tutorials/generative/pix2pix)
 
-Hyperparameter search leans on [TensorBoard Guide](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
+Hyperparameter search based on [TensorBoard Guide](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
