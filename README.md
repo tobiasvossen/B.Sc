@@ -9,7 +9,7 @@
     - [discriminator.h5](model/discriminator.h5) as discriminative model export
     - [generator.h5](model/generator.h5) as generative model export
   - deployment/
-    - Colorised examples
+    - Colorized examples
 
 ## Title
 Automatic colorization of gray-value images based on machine learning and deep genera-tive neural networks
