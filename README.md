@@ -1,15 +1,15 @@
 # Bachelor thesis
 - [B.Sc](https://github.com/tobiasvossen/B.Sc)
-  - jupyter/ 
-    - [colorization.ipynb](jupyter/colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - data/
     - Dataset examples
+  - deployment/
+    - Colorized examples
+  - jupyter/ 
+    - [colorization.ipynb](jupyter/colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - model/
     - Model summaries
     - [discriminator.h5](model/discriminator.h5) as discriminative model export
     - [generator.h5](model/generator.h5) as generative model export
-  - deployment/
-    - Colorized examples
 
 ## Title
 Automatic colorization of gray-value images based on machine learning and deep generative neural networks
