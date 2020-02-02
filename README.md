@@ -4,8 +4,8 @@
     - Dataset examples
   - deployment/
     - Colorized examples
-  - jupyter/ 
-    - [Colorization.ipynb](jupyter/Colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
+  - implementation/ 
+    - [Colorization.ipynb](implementation/Colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - model/
     - Model summaries
     - [discriminator.h5](model/discriminator.h5) as discriminative model export
@@ -32,7 +32,10 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
     - Binary crossentropy
     - L1 deviation
 
-## Release
+## Deployment
+![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
+
+## Implementation
 | Release | Date     |
 | :-------|---------:|
 | 1.0.0   | 31.01.20 | 
