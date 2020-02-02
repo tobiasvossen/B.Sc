@@ -5,7 +5,7 @@
   - deployment/
     - Colorized examples
   - jupyter/ 
-    - [colorization.ipynb](jupyter/colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
+    - [Colorization.ipynb](jupyter/Colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - model/
     - Model summaries
     - [discriminator.h5](model/discriminator.h5) as discriminative model export
