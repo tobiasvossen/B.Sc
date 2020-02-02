@@ -12,7 +12,7 @@
     - [generator.h5](model/generator.h5) as generative model export
 
 ## Title
-Automatic colorization of gray-value images based on machine learning and deep generative neural networks
+Automatic colorization of gray-value images based on generative algorithms of machine learning and deep neural networks
 
 ## Abstract
 Generative models create - in contrast to object recognising discriminatory models – new content instead of just differentiating between well-known one. This reveals new possibilities of data synthesis, which are needed whenever it is not useful or even impossible to predict unknown content. The automatic colorization of gray-value images is a prime example for the use of a GAN (known as Generative Adversarial Network), which assigns as part of this work plausible color information to hueless patterns. Deep convolutional neural networks are used, which handle the colorization as a pixel-to-pixel transformation by the help of machine learning, with the result of historical black and white images being enhanced by a suitable color restoration.
