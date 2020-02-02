@@ -30,7 +30,9 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
     - [PatchGAN](https://arxiv.org/abs/1604.04382) as Discriminator
   - Loss
     - Binary crossentropy
-    - L1 deviation
+    - Least absolute deviations, L1
+  - Optimiser
+    - Adam
 
 ## Deployment
 ![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
