@@ -32,7 +32,10 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
     - Binary crossentropy
     - L1 deviation
 
-## Release
+## Deployment
+![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
+
+## Jupyter
 | Release | Date     |
 | :-------|---------:|
 | 1.0.0   | 31.01.20 | 
