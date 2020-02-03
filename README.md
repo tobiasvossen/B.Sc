@@ -39,9 +39,6 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | :-------|---------:|
 | 1.0.0   | 31.01.20 | 
 
-## Evaluation
-![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
-
 ## Software
 | Software          | Version  |
 | :-----------------|---------:|
@@ -51,6 +48,9 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | TensorBoard       | 2.1.0    |
 | TensorFlow        | 2.1.0    |
 | TensorFlow Addons | 0.6.0    |
+
+## Evaluation
+![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
 
 ## Acknowledgement
 Implementation relies heavily on [TensorFlow](https://github.com/tensorflow/tensorflow) and [Keras](https://github.com/keras-team/keras)
