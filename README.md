@@ -2,7 +2,7 @@
 - [B.Sc](https://github.com/tobiasvossen/B.Sc)
   - data/
     - Dataset examples
-  - deployment/
+  - evaluation/
     - Colorized examples
   - implementation/ 
     - [Colorization.ipynb](implementation/Colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
