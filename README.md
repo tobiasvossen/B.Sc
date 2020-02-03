@@ -34,14 +34,14 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
   - Optimiser
     - Adam
 
-## Deployment
-![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
-
 ## Implementation
 | Release | Date     |
 | :-------|---------:|
 | 1.0.0   | 31.01.20 | 
-    
+
+## Evaluation
+![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
+
 ## Software
 | Software          | Version  |
 | :-----------------|---------:|
