@@ -8,8 +8,6 @@
     - [Colorization.ipynb](implementation/Colorization.ipynb) as [Jupyter Notebook](https://github.com/jupyter/notebook)
   - model/
     - Model summaries
-    - [discriminator.h5](model/discriminator.h5) as discriminative model export
-    - [generator.h5](model/generator.h5) as generative model export
 
 ## Title
 Automatic colorization of gray-value images based on generative algorithms of machine learning and deep neural networks
