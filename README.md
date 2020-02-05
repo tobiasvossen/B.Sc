@@ -48,7 +48,7 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | TensorFlow Addons | 0.6.0    |
 
 ## Evaluation
-![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/deployment/test-park.png "Colorization")
+![Colorization](https://github.com/tobiasvossen/B.Sc/blob/master/evaluation/test-park.png "Colorization")
 
 ## Acknowledgement
 Implementation relies heavily on [TensorFlow](https://github.com/tensorflow/tensorflow) and [Keras](https://github.com/keras-team/keras)
