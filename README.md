@@ -48,6 +48,8 @@ Trained on [Places365](https://github.com/CSAILVision/places365) by Zhou et al. 
 | TensorFlow Addons | 0.6.0    |
 
 ## Acknowledgement
+Thesis supported by [Faculty of Information, Media and Electrical Engineering](https://www.th-koeln.de/en/information-media-and-electrical-engineering/faculty-of-information-media-and-electrical-engineering_6817.php) at [TH Köln](https://www.th-koeln.de/en/) - University of Applied Science
+
 Implementation relies heavily on [TensorFlow](https://github.com/tensorflow/tensorflow) and [Keras](https://github.com/keras-team/keras)
 
 Training process borrows from [TensorFlow Tutorial](https://www.tensorflow.org/tutorials/generative/pix2pix)
